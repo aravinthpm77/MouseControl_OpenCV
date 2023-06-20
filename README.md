@@ -1,6 +1,6 @@
 # MouseControl_OpenCV
 Using Open CV we can control Mouse Cursor by our hands using landmarks of our hands . 
-Here is the Mouse Controller by using a Computer Vision Technices . 
+Here is the Mouse Controller by using a Computer Vision Techniques. 
 So Here is the sample of the work . 
 
 
